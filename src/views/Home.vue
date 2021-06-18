@@ -34,11 +34,11 @@ export default {
     return {
       settings: {
         arrow: true,
-        dots: true,
+        dots: false,
         fade: true,
         infinite: true,
-        speed: 500,
-        slidesToShow: 1,
+        speed: 700,
+        slidesToShow: 3,
         slidesToScroll: 1,
       },
     };
